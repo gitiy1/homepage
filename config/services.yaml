@@ -2,17 +2,23 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/en/configs/services
 
-- My First Group:
-    - My First Service:
-        href: http://localhost/
-        description: Homepage is awesome
+- IY小站:
+    - IY引导页:
+        icon: https://iceyear.ml/images/head.jpg
+        href: https://iceyear.ml
+        ping: https://iceyear.ml
+        description: IY个人引导页
 
-- My Second Group:
-    - My Second Service:
-        href: http://localhost/
-        description: Homepage is the best
+- 搜索:
+    - 必应:
+        icon: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/bing.svg
+        href: https://bing.com
+        ping: https://bing.com
+        description: 微软必应搜索
 
-- My Third Group:
-    - My Third Service:
-        href: http://localhost/
-        description: Homepage is 😎
+- 翻译:
+    - Deepl:
+        icon: https://static.deepl.com/img/logo/deepl-logo-blue.svg
+        href: https://www.deepl.com/translator/cn
+        ping: https://www.deepl.com
+        description: Deepl 翻译

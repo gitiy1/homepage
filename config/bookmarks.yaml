@@ -2,17 +2,18 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/en/configs/bookmarks
 
-- Developer:
+- 开发:
     - Github:
         - abbr: GH
-          href: https://github.com/
+          icon: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/github.svg
+          href: https://github.com/iceyear
 
-- Social:
-    - Reddit:
-        - abbr: RE
-          href: https://reddit.com/
+- 社交:
+    - 联邦宇宙:
+        - abbr: FD
+          href: https://starry.ml/@iceyear
 
-- Entertainment:
-    - YouTube:
-        - abbr: YT
-          href: https://youtube.com/
+- 网站:
+    - IY引导页:
+        - abbr: IY
+          href: https://iceyear.ml/

@@ -2,8 +2,23 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/en/configs/settings
 
-providers:
-  openweathermap: openweathermapapikey
-  weatherapi: weatherapiapikey
+title: IY起始页
 
+background: https://images.unsplash.com/photo-1502790671504-542ad42d5189?auto=format&fit=crop&w=2560&q=80
+backgroundOpacity: 0.5
+
+favicon: https://iceyear.ml/images/head.jpg0
+
+layout:
+  IY相关:
+    style: row
+    columns: 4
+    icon: home-assistant.png  ...
+
+headerStyle: boxed
+target: _blank # Possible options include _blank, _self, and _top
+
+quicklaunch:
+    searchDescriptions: true
+    
 language: zh-CN
