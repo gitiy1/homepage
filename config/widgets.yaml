@@ -9,5 +9,5 @@
 
 - search:
     provider: custom
-    url: https://presearch.com/?q=
+    url: https://presearch.com/search?q=
     target: _blank
